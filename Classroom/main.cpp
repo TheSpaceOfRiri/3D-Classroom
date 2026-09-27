@@ -1,18 +1,3 @@
-//
-//  main.cpp
-//  3D Classroom
-//
-//  A simple classroom scene built from course-style primitives, in the same style
-//  as the course's "3D_CubeTransformation_Color" and "Lighting" lab projects.
-//
-//  Project requirements covered:
-//    1. 3D transformation      -> objects are placed with translate/rotate/scale
-//    2. Viewing transformation -> free-fly Camera class (WASD + mouse look) with perspective projection
-//    3. A moving object        -> the classroom door slides open/closed, and the ceiling fan spins
-//    4. Two kinds of light     -> 4 point lights (ceiling lights) + 1 spotlight (board/podium spotlight)
-//    5. Different colors       -> floor tiles, walls, desks, chairs, door, board etc. all use different colors
-//
-
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
