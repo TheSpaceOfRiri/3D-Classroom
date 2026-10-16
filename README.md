@@ -378,7 +378,7 @@ The shader programs use:
 ________________________________________
 Project Objective
 The main objective of this project is to demonstrate how fundamental computer graphics concepts can be combined to create an interactive 3D environment.
-Instead of using pre-built 3D models, the classroom is constructed programmatically using geometric primitives and transformations. Lighting, materials, camera movement, animation, and user interaction are then added to make the environment more realistic and interactive.
+Instead of using pre-built 3D models, the classroom is constructed programmatically using geometric primitives and transformations. Lighting, materials, camera movement, animation, and user interaction are then added to make the environment more realistic and interactive.  
 ________________________________________
 Author
 3D Classroom - Computer Graphics Project
