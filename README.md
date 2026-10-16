@@ -16,7 +16,7 @@ The classroom contains different objects such as:
 •	Spotlight
 •	Trash bin
 The objects are constructed mainly using 3D primitives such as cubes, with a custom cylinder mesh used for the trash bin.
-The project also includes interactive elements such as a sliding door, rotating ceiling fan, movable camera, global object transformations, and controllable lights.
+The project also includes interactive elements such as a sliding door, rotating ceiling fan, movable camera, global object transformations and controllable lights.
 ________________________________________
 Main Features
 1. 3D Transformations
